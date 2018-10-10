@@ -1,0 +1,4 @@
+com/mycompany/configuration/LoginInitializer.class
+com/mycompany/controller/SpringController.class
+com/mycompany/configuration/LoginConfiguration.class
+com/mycompany/POJO/User.class
